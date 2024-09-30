@@ -23,7 +23,7 @@ This project analyzes the customer churn rate of a fictional telecommunications 
 
 ## **More Details**
 
-The final analysis along with visualizations can be found at the following link: [Detailed Results in Jupyter Notebook](../Analyzing%20Customer%20Churn%20-%20Power%20BI/notebooks/churn_analysis.ipynb)
+The final analysis along with visualizations can be found at the following link: [Detailed Results in Jupyter Notebook](notebooks/churn_analysis.ipynb)
 
 ## **Project Structure**
 
