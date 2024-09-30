@@ -23,7 +23,7 @@ Este proyecto analiza la tasa de rotación de clientes de una empresa de telecom
 
 ## **Más Detalles**
 
-El análisis final junto con las visualizaciones se encuentran en el siguiente enlace: [Resultados Detallados en Jupyter Notebook](../Analyzing%20Customer%20Churn%20-%20Power%20BI/notebooks/churn_analysis_spanish.ipynb)
+El análisis final junto con las visualizaciones se encuentran en el siguiente enlace: [Resultados Detallados en Jupyter Notebook](notebooks/churn_analysis_spanish.ipynb)
 
 ## **Estructura del Proyecto**
 
