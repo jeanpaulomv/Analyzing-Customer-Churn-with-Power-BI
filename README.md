@@ -40,4 +40,4 @@ The final analysis along with visualizations can be found at the following link:
 If you have any questions or would like more information, feel free to contact me.
 
 <a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
-<a href="https://www.upwork.com/freelancers/~017f203a5583495e29?mp_source=share"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" height="30"></a>
+<a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30"></a>
