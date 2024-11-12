@@ -2,7 +2,14 @@
 
 ### **Descripción**
 
-Este proyecto analiza la tasa de rotación de clientes de una empresa de telecomunicaciones ficticia llamada Databel. Se utilizó Power BI para generar visualizaciones y descubrir patrones importantes relacionados con la pérdida de clientes. A través de este análisis, se han identificado factores clave que afectan la retención de clientes y se han propuesto estrategias para mejorarla.
+Este proyecto analiza la tasa de rotación de clientes de una empresa de telecomunicaciones ficticia llamada **Databel**. Se utilizó **Power BI** y **Jupyter Notebook** para realizar un análisis exhaustivo de los datos, descubrir patrones importantes relacionados con la pérdida de clientes y proponer estrategias para mejorar la retención de clientes.
+
+- En el archivo `analyzing_customer_churn.pbix`, se desarrollaron dashboards interactivos, junto con medidas y columnas calculadas para un análisis exploratorio inicial (EDA), que permitió profundizar en los factores que impactan la pérdida de clientes.
+- El archivo `final_analysis.pbix` contiene el análisis final y las conclusiones visualizadas en un dashboard interactivo basado en los hallazgos más relevantes.
+
+El análisis completo, junto con las visualizaciones, se encuentra disponible en el siguiente enlace:
+
+<a href="notebooks/churn_analysis_spanish.ipynb" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Resultados Detallados en Jupyter Notebook</a>
 
 ### **Objetivo**
 
@@ -21,19 +28,7 @@ Este proyecto analiza la tasa de rotación de clientes de una empresa de telecom
 3. **Tasa de Rotación en California:**  
    California es el estado con la mayor tasa de rotación (63.24%), a pesar de tener un bajo número de interacciones con el servicio de atención al cliente. Este hallazgo sugiere la necesidad de investigar más a fondo las razones detrás de esta rotación inusualmente alta.
 
-## **Más Detalles**
-
-El análisis final junto con las visualizaciones se encuentran en el siguiente enlace: [Resultados Detallados en Jupyter Notebook](notebooks/churn_analysis_spanish.ipynb)
-
-## **Estructura del Proyecto**
-
-├── `data/` # Dataset  
-├── `notebooks/` # Notebooks de Jupyter con análisis detallado  
-├── `powerbi_reports/` # Archivos Power BI (.pbix)  
-│ ├── `analyzing_customer_churn.pbix` # Archivo con cálculos y EDA  
-│ └── `final_analysis.pbix` # Archivo con conclusiones finales  
-├── `visualizations/` # Screenshots de los dashboards  
-└── `README.md` # Este archivo
+![dashboard](visualizations/global_churn_rate.png)
 
 ## **Contacto**
 
