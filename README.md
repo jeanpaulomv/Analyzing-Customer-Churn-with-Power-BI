@@ -2,7 +2,14 @@
 
 ### **Description**
 
-This project analyzes the customer churn rate of a fictional telecommunications company called Databel. Power BI was used to generate visualizations and discover key patterns related to customer loss. Through this analysis, key factors affecting customer retention were identified, and strategies were proposed to improve it.
+This project analyzes the customer churn rate of a fictional telecommunications company called **Databel**. **Power BI** and **Jupyter Notebook** were used to perform a thorough analysis of the data, uncover important patterns related to customer churn, and propose strategies to improve customer retention.
+
+- In the file `analyzing_customer_churn.pbix`, interactive dashboards were developed, along with calculated measures and columns for an initial exploratory analysis (EDA), which allowed for a deeper dive into the factors that impact customer churn.
+- The file `final_analysis.pbix` contains the final analysis and conclusions visualized in an interactive dashboard based on the most relevant findings.
+
+The full analysis, along with visualizations, is available at the following link:
+
+<a href="notebooks/churn_analysis.ipynb" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Detailed Results in Jupyter Notebook</a>
 
 ### **Objective**
 
@@ -21,19 +28,7 @@ This project analyzes the customer churn rate of a fictional telecommunications 
 3. **Churn Rate in California:**  
    California has the highest churn rate (63.24%) despite having a low number of interactions with customer service. This finding suggests the need to further investigate the reasons behind this unusually high churn.
 
-## **More Details**
-
-The final analysis along with visualizations can be found at the following link: [Detailed Results in Jupyter Notebook](notebooks/churn_analysis.ipynb)
-
-## **Project Structure**
-
-├── `data/` # Dataset  
-├── `notebooks/` # Jupyter Notebooks with detailed analysis  
-├── `powerbi_reports/` # Power BI files (.pbix)  
-│ ├── `analyzing_customer_churn.pbix` # File with calculations and EDA  
-│ └── `final_analysis.pbix` # File with final conclusions  
-├── `visualizations/` # Dashboard screenshots  
-└── `README.md` # This file
+![dashboard](visualizations/global_churn_rate.png)
 
 ## **Contact**
 
