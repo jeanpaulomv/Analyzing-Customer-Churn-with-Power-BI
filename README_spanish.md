@@ -9,7 +9,9 @@ Este proyecto analiza la tasa de rotación de clientes de una empresa de telecom
 
 El análisis completo, junto con las visualizaciones, se encuentra disponible en el siguiente enlace:
 
-<a href="notebooks/churn_analysis_spanish.ipynb" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Resultados Detallados en Jupyter Notebook</a>
+<a href="notebooks/churn_analysis_spanish.ipynb">
+  <img src="https://img.shields.io/badge/Resultados%20Detallados%20en%20Jupyter%20Notebook-007bff?style=for-the-badge&logo=jupyter&logoColor=white" alt="Resultados Detallados en Jupyter Notebook" height="40">
+</a>
 
 ### **Objetivo**
 
