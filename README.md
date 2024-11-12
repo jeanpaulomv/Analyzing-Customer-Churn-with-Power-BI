@@ -9,7 +9,9 @@ This project analyzes the customer churn rate of a fictional telecommunications 
 
 The full analysis, along with visualizations, is available at the following link:
 
-<a href="notebooks/churn_analysis.ipynb" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Detailed Results in Jupyter Notebook</a>
+<a href="notebooks/churn_analysis.ipynb">
+  <img src="https://img.shields.io/badge/Detailed%20Results%20in%20Jupyter%20Notebook-007bff?style=for-the-badge&logo=jupyter&logoColor=white" alt="Resultados Detallados en Jupyter Notebook" height="40">
+</a>
 
 ### **Objective**
 
